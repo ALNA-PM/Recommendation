@@ -1,0 +1,27 @@
+# Python Version: 3.9+
+
+# Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Database
+pymongo==4.6.0
+
+# Data Processing & Analysis
+pandas==2.1.4
+numpy==1.24.3
+
+# HTTP Requests
+requests==2.31.0
+
+# Date/Time Utilities
+python-dateutil==2.8.2
+
+# Security
+werkzeug==2.3.7
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Additional Dependencies
+collections-extended==2.0.2

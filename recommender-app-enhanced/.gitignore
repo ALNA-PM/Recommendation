@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Build outputs
+build/
+dist/
+coverage/
+
+# Database
+*.db
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+.cache
+
+# MongoDB
+data/
+dump/
+
+# React
+.eslintcache
+
+# API Keys
+config.py
+secrets.json
